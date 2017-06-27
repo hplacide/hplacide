@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "4.0.6"
   },
   "pages": {
@@ -674,7 +674,7 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-m"
+          "_anchor": "social-buttons2-n"
         }
       ]
     }
