@@ -481,6 +481,10 @@ h6,
 #menu-0 .btn {
   font-size: 12px;
 }
+#msg-box3-s .mbr-section-title,
+#msg-box3-s p {
+  color: #000;
+}
 #pricing-table1-9 .mbr-section__container .mbr-section-title {
   color: #fff;
 }
