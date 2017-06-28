@@ -491,6 +491,13 @@ h6,
 #pricing-table1-9 .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#pricing-table1-9 .mbr-price-figure {
+  font-size: 30px;
+  text-align: left;
+}
+#pricing-table1-9 .mbr-price-value {
+  font-size: 30px;
+}
 #form1-a .form-control-label {
   color: #232323;
 }

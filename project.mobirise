@@ -217,7 +217,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/free-template/coming-soon-demo/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE ALL TEMPLATES</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-s"
         },
@@ -228,6 +228,13 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "30px",
+              "text-align": "left"
+            },
+            ".mbr-price-value": {
+              "font-size": "30px"
             }
           },
           "_tags": [
@@ -264,38 +271,38 @@
           "title1": "STANDARD",
           "subtitle1": "Description",
           "currency1": "$",
-          "price1": "0",
+          "price1": "9.99",
           "period1": "/mo.",
           "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO</a>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">60 GB storage</li><li class=\"list-group-item\">5 users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NOW</a>",
           "label2": "HOT!",
           "title2": "BUSINESS",
           "subtitle2": "Description",
           "currency2": "$",
-          "price2": "0",
+          "price2": "12.99",
           "period2": "/mo.",
           "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO</a>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">80 GB storage</li><li class=\"list-group-item\">15 users</li><li class=\"list-group-item\">30 GB bandwidth</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NOW</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
           "subtitle3": "Description",
           "currency3": "$",
-          "price3": "0",
+          "price3": "29.99",
           "period3": "/mo.",
           "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO</a>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">120 GB storage</li><li class=\"list-group-item\">100 users</li><li class=\"list-group-item\">45 GB bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NOW</a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
           "subtitle4": "Description",
           "currency4": "$",
-          "price4": "0",
+          "price4": "49.99",
           "period4": "/mo.",
           "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO</a>"
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">180 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">75 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://hplacide.github.io/hplacide/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NOW</a>"
         },
         {
           "_tags": [
@@ -504,7 +511,7 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
           "_tags": [
             "Theme"
           ],
