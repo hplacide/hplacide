@@ -1,4 +1,4 @@
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.info">Mobirise</a> Mobirise v4.0.12';document.body.insertBefore(a,document.body.childNodes[0])}}();
+!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.info">Mobirise</a> Mobirise v4.0.17';document.body.insertBefore(a,document.body.childNodes[0])}}();
 (function($) {
 
     var isBuilder = $('html').hasClass('is-builder');
@@ -1182,6 +1182,11 @@
     }
 
 // Table Block;
+    function getRowCount(card){
+        var $tbodyRows = $(card).find('.table tbody tr').length;
+        $(card).find('.dataTables_info').text('Showing '+$tbodyRows+' entries');
+    }
+
     function initTable(card,isSearch){
         var $target = $(card);
             $target.find('table').dataTable({
@@ -1199,7 +1204,19 @@
             }
         });
     }
-    if(!isBuilder){
+    
+    if (isBuilder){
+        $(document).on('add.cards',function(event) {
+            if($(event.target).hasClass('section-table')){
+                getRowCount(event.target);
+            }    
+        }).on('changeParameter.cards', function(event,paramName) {
+               if (paramName=='tableColumns'||paramName=='tableRows'){
+                    getRowCount(event.target);          
+               }   
+        });;
+    }
+    else{
         if($(document).find('section.section-table').length!=0){
             $('section.section-table').each(function() {
                 var isSearch = $(this).find('table').is('.isSearch');
@@ -1209,5 +1226,14 @@
                 initTable($(this),isSearch);
             });
         }
-    }    
+    }
+
+// Cards With Popup Buttons
+    if (!isBuilder) {
+        if ($('section.popup-btn-cards').length!=0) {
+            $('section.popup-btn-cards .card-wrapper').each(function(index, el) {
+                $(this).addClass('popup-btn');
+            });
+        }
+    } 
 })(jQuery);
