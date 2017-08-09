@@ -1434,7 +1434,7 @@ pre {
 .cid-qqrSd8TXSS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/nikon-1033958-960-960x531.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 .cid-qqrSd8TXSS .mbr-iconfont {
   font-size: 48px;
@@ -1471,7 +1471,7 @@ pre {
   font-style: italic;
 }
 .cid-qqrSd8TXSS .mbr-text {
-  color: #767676;
+  color: #ffffff;
   text-align: left;
 }
 .cid-qqrSd8TXSS a:not([href]):not([tabindex]) {
@@ -1525,6 +1525,15 @@ pre {
   .cid-qqrSd8TXSS .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
+}
+.cid-qqrSd8TXSS H2 {
+  color: #ffffff;
+}
+.cid-qqrSd8TXSS H4 {
+  color: #ffffff;
+}
+.cid-qqrSd8TXSS H5 {
+  color: #ffffff;
 }
 .cid-qrcy6mSwSx {
   padding-top: 45px;
