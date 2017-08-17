@@ -806,25 +806,10 @@ pre {
 .header14 .form-inline button {
   border-radius: 100px !important;
 }
-.cid-qqrTl5sNYK {
+.cid-qsvS7B94j8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-11-1620x1080.jpg");
-}
-@media (min-width: 992px) {
-  .cid-qqrTl5sNYK .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qqrTl5sNYK .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qqrTl5sNYK .mbr-text {
-    text-align: center;
-  }
+  background-color: #149dcc;
 }
 .cid-qskeAjqgHV {
   padding-top: 90px;
