@@ -100,13 +100,6 @@ body {
   justify-content: center;
   word-break: break-word;
 }
-.navbar .btn {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
-}
-.navbar .btn > .mbr-iconfont {
-  font-size: 1.6rem;
-}
 .btn-sm {
   font-weight: 500;
   letter-spacing: 1px;
@@ -806,10 +799,13 @@ pre {
 .header14 .form-inline button {
   border-radius: 100px !important;
 }
-.cid-qsvS7B94j8 {
+.cid-qsC7Bx2v0M {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #149dcc;
+}
+.cid-qsC7Bx2v0M P {
+  text-align: left;
 }
 .cid-qskeAjqgHV {
   padding-top: 90px;
@@ -1522,7 +1518,7 @@ pre {
 .cid-qrcy6mSwSx {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #073b4c;
+  background-color: #149dcc;
 }
 @media (max-width: 767px) {
   .cid-qrcy6mSwSx .content {
